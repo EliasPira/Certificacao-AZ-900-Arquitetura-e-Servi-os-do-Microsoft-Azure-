@@ -1,7 +1,4 @@
-# Certificacao-AZ-900-Arquitetura-e-Serviços-do-Microsoft-Azure-
----
-
-# 🧭 Guia Interativo: Arquitetura e Serviços do Microsoft Azure (AZ-900)
+# 🧭 Guia Interativo: Arquitetura e Serviços do Microsoft Azuure
 
 Este guia lista os principais componentes físicos e organizacionais da infraestrutura do Azure, essenciais para quem está se preparando para a certificação AZ-900.
 
